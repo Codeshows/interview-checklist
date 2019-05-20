@@ -1,7 +1,7 @@
 # interview-checklist
 A checklist for important questions to be prepared for internship/ placement interviews
 
-<a href="CHECKLIST.md">View the checklist</a>
+<a href="./checklist.md">View the checklist</a>
 
 ## Motivation
 This checklist would be helpful for college students appearing in college interviews and would save them the time of going through every random link on the web.
